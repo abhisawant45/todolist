@@ -1,0 +1,32 @@
+.text-center {
+  text-align: center;
+}
+.Title {
+  letter-spacing: 1px;
+  font-size: 30px;
+  font-weight: bolder;
+}
+.countNo {
+  font-size: 40px;
+  font-weight: bolder;
+}
+.btn {
+  color: white;
+  padding: 4px 10px;
+  border-radius: 5px;
+  margin: 0 2%;
+  border-color: transparent;
+  background-color: #1768ac;
+}
+/*-----------------------*/
+nav {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  min-height: 10vh;
+  background-color: rgb(73, 79, 82);
+  color: white;
+}
+li {
+  style: none;
+}
